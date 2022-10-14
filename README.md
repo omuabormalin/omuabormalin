@@ -1,3 +1,7 @@
+I am omuabor smart daniel and i motivated by tech innovation
+
+
+
 🔭   I’m currently learning SOFTWARE ENGINEERING AT ALX and Holberton School
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
@@ -14,4 +18,4 @@
 
 💻   Python | C | Bash Scripting | Linux Servers
 
-🌐   | HTML | CSS | JavaScript |
+🌐   | HTML | CSS | JavaScript 
